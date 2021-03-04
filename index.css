@@ -1,0 +1,36 @@
+.trapezium-left {
+    border-bottom: 111px solid #FF4654;
+    border-left: 95px solid transparent;
+    border-right: 130px solid transparent;
+    width: 200px;
+    transform: rotate(-130deg);
+    margin-top: 340px;
+    position: absolute;
+    top: 45px;
+    left: 600px;
+}
+.trapezium-right {
+    border-bottom: 100px solid #FF4654;
+    border-left: 115px solid transparent;
+    border-right: 88px solid transparent;
+    height: 40px;
+    width: 70px;
+    transform: rotate(-229deg);
+    margin-top: 353px;
+    position: absolute;
+    top: -30px;
+    left: 950px;
+}
+.tm-style{
+    color: #FF4654;
+    font-size: 7px;
+    position: absolute;
+    top: 437px;
+    left: 1103px;
+}
+.valorantText{
+    position: absolute;
+    top: 620px;
+    left: 335px;
+}
+body {background-color: #101823;}
